@@ -1,3 +1,6 @@
+# My branch
+Branch used for exlporation
+
 # DigiVolCan: Monitoring and data exploration
 This repository was developed as part of  Work Package _WP 1.3: Exploratory data analysis of volcano seismic data_ of the project _DigiVolCan: A digital infrastructure for eruption forecast in the Canary Islands" (Ref. PLEC2022-009271)_.
 ![logo](https://github.com/user-attachments/assets/abcf9c3e-67c2-493b-86cc-597f5e179d9f)
